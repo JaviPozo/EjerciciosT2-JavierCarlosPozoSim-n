@@ -17,13 +17,13 @@ public class Ejercicio7 {
 		Scanner sc = new Scanner(System.in);
 
 		// Le pedimos al usuario que introduzca la hora, los mitos y los segundos
-		System.out.print("Horas: ");
+		System.out.print("Introduzca las horas: ");
 		horas = sc.nextInt();
 
-		System.out.print("Minutos: ");
+		System.out.print("Introduzca los minutos: ");
 		minutos = sc.nextInt();
 
-		System.out.print("Segundos: ");
+		System.out.print("Introduzca los segundos: ");
 		segundos = sc.nextInt();
 
 		// Le sumamos 1 a los segundos
