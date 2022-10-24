@@ -6,7 +6,7 @@ public class Ejercicio5 {
 
 	public static void main(String[] args) {
 		// Definimos las variables
-		int num;
+		int num; // Esta variable sirve para identificar el número introducido por el usuario
 		
 		// Creamos el Scanner para que pueda leer el teclado
 		Scanner sc = new Scanner(System.in);

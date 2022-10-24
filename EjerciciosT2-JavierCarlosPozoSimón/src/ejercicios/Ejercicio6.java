@@ -6,7 +6,10 @@ public class Ejercicio6 {
 
 	public static void main(String[] args) {
 		// Definimos las variables
-		int num1, num2, resultado, resto;
+		int num1; // Esta variable sirve para indicar el primero número
+		int num2; // // Esta variable sirve para indicar el segundo número
+		int resultado; // Esta variable sirve para indicar el resultado de la comparativa con el resto
+		int resto; // Esta variable sirve para indicar el resto de la cuenta
 
 		// Abrimos el escaner
 		Scanner sc = new Scanner(System.in);

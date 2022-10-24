@@ -6,8 +6,10 @@ public class Ejercicio3 {
 
 	public static void main(String[] args) {
 		// Definimos las variables
-		double cantComida, kilosComida, resultado;
-		int numAnimales;
+		double cantComida; // Esta variable es para indicar la cantidad de comida comprada
+		double kilosComida; // Esta variable es para indicar la cantidad de kilos de comida comprada
+		double resultado; // Esta variable es para indicar el resultado del calculo para hallar si hay suficiente comida
+		int numAnimales; // Esta variables sirve para identificar el número de animales que hay
 
 		// Creamos el Scanner para que pueda leer el teclado
 		Scanner sc = new Scanner(System.in);
